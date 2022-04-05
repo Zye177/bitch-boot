@@ -1,5 +1,5 @@
-git clone https://github.com/Zye177/bitch-boot;npm start
+$ git clone https://github.com/Zye177/bitch-boot;npm start
 <br />
-node index
+$ node index
 <br />
-cd bitch-boot;npm start
+$ cd bitch-boot;npm start
